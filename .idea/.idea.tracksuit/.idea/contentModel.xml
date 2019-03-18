@@ -4,6 +4,7 @@
     <e p="C:\Users\huber\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\huber\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_tracksuit.-1246834019.00" t="ExcludeRecursive" />
     <e p="C:\Users\huber\OneDrive\Dokumenty\thesis-hubert\unity\tracksuit" t="IncludeRecursive">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -47,6 +48,7 @@
           <e p="FollowCamera.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="SmartSuitDataHandler.cs" t="Include" />
+          <e p="TrackerPositionHandler.cs" t="Include" />
           <e p="Utils.cs" t="Include" />
         </e>
         <e p="SteamVR" t="Include">

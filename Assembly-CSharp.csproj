@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\FollowCamera.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\SmartsuitDataHandler.cs" />
+    <Compile Include="Assets\Scripts\TrackerPositionHandler.cs" />
     <Compile Include="Assets\Scripts\Utils.cs" />
     <None Include="Assets\MagicMirror\Prefab\MirrorShaderOld.shader" />
     <None Include="Assets\MagicMirror\Prefab\MirrorShaderBumpMap.shader" />
